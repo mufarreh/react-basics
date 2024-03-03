@@ -60,7 +60,6 @@ export default function Examples() {
       >
         {tabContent}
       </Tabs>
-      <p>asd</p>
     </Section>
   );
 }
